@@ -1,0 +1,506 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Posts on Leies</title>
+		<link>https://eizi2002.skr.jp/posts/</link>
+		<description>Recent content in Posts on Leies</description>
+		<generator>Hugo -- gohugo.io</generator>
+		<language>ja-jp</language>
+		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+		<lastBuildDate>Sat, 15 Jun 2019 18:01:21 +0900</lastBuildDate>
+		<atom:link href="https://eizi2002.skr.jp/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>浜松市の医療費助成の対象年齢が上がった話</title>
+			<link>https://eizi2002.skr.jp/posts/cdmzh/</link>
+			<pubDate>Sat, 15 Jun 2019 18:01:21 +0900</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/cdmzh/</guid>
+			<description>今まで政令指定都市だけはその特性のせいで無視されてたのでね&amp;hellip;。 マジで家計火の車の我が家には救いなので。 ただし三区案テメーはダメ</description>
+			<content type="html"><![CDATA[<p>今まで政令指定都市だけはその特性のせいで無視されてたのでね&hellip;。</p>
+
+<p>マジで家計火の車の我が家には救いなので。</p>
+
+<p>ただし三区案テメーはダメだ。</p>
+
+<p><a href="https://misskey.io/notes/7u0uu6di8u">https://misskey.io/notes/7u0uu6di8u</a></p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>friends.nico終了に基づく諸々の件</title>
+			<link>https://eizi2002.skr.jp/posts/2019-03-29-friendsnico/</link>
+			<pubDate>Thu, 28 Mar 2019 22:50:57 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2019-03-29-friendsnico/</guid>
+			<description>※前置き長いので引越し先の本題だけみたい人はここクリック 前置き こんにちは。 自分のMisskeyインスタンスを(めいめいの圧倒的支援もあり)自</description>
+			<content type="html"><![CDATA[
+
+<p>※前置き長いので引越し先の本題だけみたい人は<a href="#hon">ここ</a>クリック</p>
+
+<h3 id="前置き">前置き</h3>
+
+<p>こんにちは。</p>
+
+<p>自分のMisskeyインスタンスを(めいめいの圧倒的支援もあり)自宅鯖に無事設置成功してイキっていたところにドドんと<a href="https://blog.nicovideo.jp/niconews/105071.html">こんな爆弾</a>が降ってきました。</p>
+
+<p>そう、受験期から共にしてきた、Mastodon三大インスタンスとも呼ばれていた、二コフレこと<a href="https://friends.nico/">friends.nico</a>が終わるのです。</p>
+
+<p>さて、その関係であと約1ヶ月の猶予があるとはいえ自分含め大慌てです。</p>
+
+<p>こんな引越し先リストが早速用意されたりもしています。</p>
+
+<p>きりぼはきりたん丼に引越しだそうですが、ももなはどうなるの…。</p>
+
+<p>僕は引越し自体より引越ししても移しきれない今までのトゥートで悲鳴です。</p>
+
+<p>特に｢<a href="https://friends.nico/tags/%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%AC%E3%82%A4%E3%82%A8%E3%82%B9">#今日のレイエス</a>｣タグ等は残したい。</p>
+
+<p>その中でも野菜の観察日記は。</p>
+
+<p>アーカイブ機能がある？あれHTMLじゃないから。</p>
+
+<p>jsonファイルは専門外中の専門外。</p>
+
+<p>僕が求めてるのそのままサーバー設置でどうにかなる青い鳥みたいなアーカイブHTMLです。</p>
+
+<p>逆いえばサイトに今までの野菜観察日記を設置したい。</p>
+
+<h3 id="hon">二コフレからの引っ越しの件(本題)</h3>
+
+<p>で、ここからその引越し関係の情報です。</p>
+
+<p>二コフレ非公式2期として、ベストフレンズ(best-friends.chat)が建ちましたが移行する気は失せました。公開が早すぎるんだよ二コフレで一番好きだったあの流速感が二コフレ終わる直前に消えるとかわけがわからないよ。</p>
+
+<p>まず浮上多めの予定である本命の引越し先です。二コフレアプリも消えるみたいなのでもうマストドンは完全破棄でMisskeyにします。MisskeyはWebクライアントでも全然イけるので好きです。</p>
+
+<p>1.<a href="https://misskey.m544.net/@eizi2002/">めいすきー</a></p>
+
+<p>2.<a href="https://eizi2002.orz.hm/@eizi2002">Misskey-orz(自分で建てたインスタンス)</a></p>
+
+<p>希に<a href="https://misskey.io/@eizi2002">misskey.io</a></p>
+
+<p>以上です。</p>
+
+<p>次に、青い鳥です。<br />
+<a href="https://twitter.com/eizi2002">@eizi2002</a>(あまり喋らない方)<br />
+<a href="https://twitter.com/eizi2002b">@eizi2002b</a>(めっちゃ喋る方)</p>
+
+<p>さらに、もう滅多に浮上しないでしょうがマストドンも置いときます。</p>
+
+<p>言うて全部eizi2002だし(‘・ω・`)</p>
+
+<p>1.<a href="https://kiritan.work/@eizi2002">きりたん丼</a></p>
+
+<p>2.<a href="https://knzk.me/@eizi2002">神崎丼</a></p>
+
+<p>3.<a href="https://pawoo.net/@eizi2002">Pawoo</a></p>
+
+<p>4.<a href="https://vocalodon.net/@eizi2002">vocalo丼</a></p>
+
+<p>5.<a href="https://mastodon.social/@eizi2002">social</a></p>
+
+<p>6.<a href="https://music.pawoo.net/@eizi2002">Pawoomusic</a></p>
+
+<p>まぁ、こんなものでしょう。</p>
+
+<h3 id="最後に">最後に</h3>
+
+<p>確かに終わるのは悲しいし、出来れば存続して欲しい所もあります。</p>
+
+<p>仮に万丈一致の引越し先があったとしてもあの文化は、２度と同じものは出来ないと思います。</p>
+
+<p>そもそも二コフレでない限りはニコるが消える訳ですし。</p>
+
+<p>そして、二コフレは確かにコミュニティ自体としては確立していました。</p>
+
+<p>が、その発展や文化がニコニコとしての文化(つまり、ニコニコの視聴者増加や、視聴者増加に繋がるようなコンテンツの潤い)に貢献したかという観点で見れば、微妙ですね。</p>
+
+<p>確かに生放送等が多少わいわいしてましたが、Mastodonの維持費用以上の利益に繋がってるとは思えないなぁと。</p>
+
+<p>そうなると企業としては苦渋の決断をせざるを得ない。</p>
+
+<p>薄々そういう予感はしていたが心に押しとどめてた。</p>
+
+<p>何故か習うことになったビジネス基礎ではとにかく言われること。｢企業は利益の獲得を目指すもの｣</p>
+
+<p>企業という定義がそうである以上、こういう事は私情をこんな長ったらしくグチグチ言ったにしろ、結論は｢仕方がない｣です。</p>
+
+<p>現にニコナレなども二コフレ同様切り捨てていってますし。はい。</p>
+
+<p>まぁ、僕が一番あれだと思ってるのは…エクスポートファイルの件ですはい。</p>
+
+<p>マジでどうしよう…オイゲンさんHTMLでのアーカイブを((</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>結局WordPressからは逃れられなかった話</title>
+			<link>https://eizi2002.skr.jp/posts/2019-03-25-wordpress/</link>
+			<pubDate>Mon, 25 Mar 2019 09:42:18 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2019-03-25-wordpress/</guid>
+			<description>前提:いろいろ言っていますが、当メインサイトはWordPressに戻すことはないでしょう(普通に面倒くさい) さくらのレンタルサーバーを契約し</description>
+			<content type="html"><![CDATA[<p>前提:いろいろ言っていますが、当メインサイトはWordPressに戻すことはないでしょう(普通に面倒くさい)</p>
+
+<hr />
+
+<p>さくらのレンタルサーバーを契約して数日。</p>
+
+<p>PSO2ブログもMovableTypeで運用にするか決めるため念のためWordPressを試しにぶち込む。</p>
+
+<p>するとどうだ、今までのサーバーと全然違う。<br />
+入れたばかりにしてもクッソ速い。<br />
+なんですかあれは反則です((</p>
+
+<p>仮にも有料サーバーなのもありセキュリティも基本的には問題ないだろうと(同時に今回使用するテーマが今までのプラグインの代わりをほとんどこなしているのもあります。)PSO2日記とeizi2002b名義の日記はWordPressで再構築で確定し実施中です。</p>
+
+<p>WordPressに舞い戻った決定的な要因は、早いとか以前に｢<strong>MovableTypeのテーマ系が足りな過ぎ</strong>｣です。<br />
+(作れって？HTMLはカスタマイズできるレベルにはどうにかなるにしても、CSSはろくに出来ない雑魚なので無理です。)<br />
+はっきり言って自分の調べた中ではこのサイトで使っているRIMOテーマしか使えない。他のデザインが見た目が恐ろしく古い(見た目で離れられかねないレベル)か個人的な方針とかけ離れている。</p>
+
+<p>こういうとこですよね。WordPressは色々揃い過ぎている。そしてそれで人気になってまたWordPressが潤っていく。もれなく他のCMSが追いつけないどころか寂れる。</p>
+
+<p>同時にアレなのはWordPressと違って一応MovableTypeはオープンソースというわけではない点です。(確かMT5で打ち切られたはず？)</p>
+
+<p>ここら辺も関わっているのでは？</p>
+
+<p>挙句の果てにメジャーバージョン7で古すぎるが便利だったプラグイン及びテーマも全滅らしく。</p>
+
+<p>悲しいの一言。</p>
+
+<p>ここまでごたごた言っていますが仕組みとしては昔お世話になったぶろぐんplusとテンプレートのカスタマイズが似ておりテーマさえあれば全然使えるので当サイトはこのまま運用します。</p>
+
+<p>それでもトップが投稿一覧になってたりと変わっていますが。</p></p>
+
+<p>とにもかくにも、テーマとプラグインの発展を切に願っております。</p>
+
+<p>そして無理と言いつつも自分も知れに貢献できる力は欲しい。</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>音街ウナChromeテーマ第二弾</title>
+			<link>https://eizi2002.skr.jp/posts/2019-03-22-chrome-1/</link>
+			<pubDate>Thu, 21 Mar 2019 16:10:02 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2019-03-22-chrome-1/</guid>
+			<description>動機 音街ウナ公式アカウント様よりとんでもないものが降ってきたため(( V1(正方形ディスプレイ向け)一覧 夜の街 白ワンピ 街路樹のある道 海辺の家(</description>
+			<content type="html"><![CDATA[
+
+<h3 id="動機">動機</h3>
+
+<p>音街ウナ公式アカウント様より<a href="https://twitter.com/otomachiuna/status/1106864120408637440" target="_blank" rel="noopener noreferrer">とんでもないもの</a>が降ってきたため((</p>
+
+<h3 id="v1-正方形ディスプレイ向け-一覧">V1(正方形ディスプレイ向け)一覧</h3>
+
+<ul>
+<li>夜の街</li>
+<li>白ワンピ</li>
+<li>街路樹のある道</li>
+<li>海辺の家(製作中)</li>
+</ul>
+
+<h3 id="v2-長方形ディスプレイ向け-一覧">V2(長方形ディスプレイ向け)一覧</h3>
+
+<p>作成中</p>
+
+<h3 id="サンプル画像">サンプル画像</h3>
+
+<p><a href="/image/e094e6b7b8df164434d9fa4fe5c884e3.png"><img alt="e094e6b7b8df164434d9fa4fe5c884e3.png" src="/assets_c/2019/03/e094e6b7b8df164434d9fa4fe5c884e3-thumb-567xauto-91.png" width="567" height="453" class="mt-image-none" /></a><a href="/image/e233ba32a85d491ebd234bbbefe8886e.png"><img alt="e233ba32a85d491ebd234bbbefe8886e.png" src="/assets_c/2019/03/e233ba32a85d491ebd234bbbefe8886e-thumb-567xauto-90.png" width="567" height="453" class="mt-image-none" /></a><a href="/image/6ef01e3b57de73da5b42c1a67b241b89.png"><img alt="6ef01e3b57de73da5b42c1a67b241b89.png" src="/assets_c/2019/03/6ef01e3b57de73da5b42c1a67b241b89-thumb-567xauto-89.png" width="567" height="453" class="mt-image-none" /></a></p></p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>久々のチャレ部</title>
+			<link>https://eizi2002.skr.jp/posts/2018-02-15-post_9/</link>
+			<pubDate>Wed, 14 Feb 2018 15:00:39 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2018-02-15-post_9/</guid>
+			<description>久々のPSO2で久々のチャレ部です。 楽しかったぁ(&amp;#8216;・ω・`) 英治の【PSO2】チャレ部なうをwww.twitch.tvから視聴</description>
+			<content type="html"><![CDATA[<p>久々のPSO2で久々のチャレ部です。</p>
+
+<p>楽しかったぁ(&#8216;・ω・`)</p>
+
+<p><iframe src="https://player.twitch.tv/?autoplay=false&video=v228963999" width="620" height="378" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe><a style="padding: 2px 0px 4px; display: block; width: 345px; font-weight: normal; font-size: 10px; text-decoration: underline;" href="https://www.twitch.tv/videos/228963999?tt_content=text_link&tt_medium=vod_embed">英治の【PSO2】チャレ部なうをwww.twitch.tvから視聴する</a></p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>今までのアイコン</title>
+			<link>https://eizi2002.skr.jp/posts/2017-11-01-icon/</link>
+			<pubDate>Tue, 31 Oct 2017 15:00:54 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2017-11-01-icon/</guid>
+			<description>今まで真帆さんに書いてもらったアイコン達です。(適時更新) 一部公開してないのもあるけど気にしたら負け(状況とか考えて使う気ではある) ※七代目</description>
+			<content type="html"><![CDATA[
+
+<p>今まで<a href="https://twitter.com/meynico_maho" target="_blank" rel="noopener noreferrer">真帆</a>さんに書いてもらったアイコン達です。(適時更新)</p>
+
+<p>一部公開してないのもあるけど気にしたら負け(状況とか考えて使う気ではある)</p>
+
+<p>※七代目までは削除済み名義での使用。八代目以降は<a href="https://twitter.com/eizi2002b">@eizi2002b</a>での使用です。</p>
+
+<p>※画質悪い時は画像をクリック(タップ)すると原寸大が出てきますので。</p>
+
+<p>初代</p>
+
+<p><a href="/image/CqCxeU_XEAIVDRW.jpg" data-lightbox="sample"><img alt="CqCxeU_XEAIVDRW.jpg" src="/assets_c/2019/03/CqCxeU_XEAIVDRW-thumb-150xauto-22.jpg" class="mt-image-none" width="150" height="130" /></a></p>
+
+<p>二代目</p>
+
+<p><a href="/image/CskcAZ5VUAATgOB_orig.jpg" data-lightbox="sample"><img alt="CskcAZ5VUAATgOB_orig.jpg" src="/assets_c/2019/03/CskcAZ5VUAATgOB_orig-thumb-150xauto-30.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>三代目(現英治名義のTwitter以外の固定アイコン)</p>
+
+<p><a href="/image/a6kz81ry.jpg" data-lightbox="sample"><img alt="a6kz81ry.jpg" src="/assets_c/2019/03/a6kz81ry-thumb-150xauto-32.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>四代目(可愛くね？ね？)</p>
+
+<p><a href="/image/SbtTyFnR.jpg" data-lightbox="sample"><img alt="SbtTyFnR.jpg" src="/assets_c/2019/03/SbtTyFnR-thumb-150xauto-34.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>五代目</p>
+
+<p><a href="/image/hehe.png" data-lightbox="sample"><img alt="hehe.png" src="/assets_c/2019/03/hehe-thumb-150xauto-26.png" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>五代目-色付き(色は<a href="https://twitter.com/kokoroomantanni" target="_blank" rel="noopener noreferrer">電化製品</a>さん)</p>
+
+<p><a href="/image/bqdtEMMw.jpg" data-lightbox="sample"><img alt="bqdtEMMw.jpg" src="/assets_c/2019/03/bqdtEMMw-thumb-150xauto-28.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>六代目</p>
+
+<p><a href="/image/ZVGcFX6u.jpg" data-lightbox="sample"><img alt="ZVGcFX6u.jpg" src="/assets_c/2019/03/ZVGcFX6u-thumb-150xauto-36.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>七代目</p>
+
+<p><a href="/image/FCIFyBH2_400x400.jpg" data-lightbox="sample"><img alt="FCIFyBH2_400x400.jpg" src="/assets_c/2019/03/FCIFyBH2_400x400-thumb-150xauto-38.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>八代目(誕生日に貰ったお祝いイラスト使用)</p>
+
+<p><a href="/image/DCfAzyuUQAA8cJK_orig.png" data-lightbox="sample"><img alt="DCfAzyuUQAA8cJK_orig.png" src="/assets_c/2019/03/DCfAzyuUQAA8cJK_orig-thumb-150xauto-40.png" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>九代目</p>
+
+<p><a href="/image/IMG_3973.JPG" data-lightbox="sample"><img alt="IMG_3973.JPG" src="/assets_c/2019/03/IMG_3973-thumb-150xauto-42.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>十代目</p>
+
+<p><a href="/image/IMG_3974.JPG" data-lightbox="sample"><img alt="IMG_3974.JPG" src="/assets_c/2019/03/IMG_3974-thumb-350xauto-44.jpg" class="mt-image-none" width="350" height="205" /></a></p>
+
+<p>十一代目(進学記念ブレザー)</p>
+
+<p><a href="/image/IMG_0705.jpg" data-lightbox="sample"><img alt="IMG_0705.jpg" src="/assets_c/2019/03/IMG_0705-thumb-150xauto-48.jpg" class="mt-image-none" width="150" height="150" /></a><a href="/image/IMG_0706.jpg" data-lightbox="sample"><img alt="IMG_0706.jpg" src="/assets_c/2019/03/IMG_0706-thumb-150xauto-47.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>十二代目(着物)</p>
+
+<p><a href="/image/LP3Y3a5l.jpg" data-lightbox="sample"><img alt="LP3Y3a5l.jpg" src="/assets_c/2019/03/LP3Y3a5l-thumb-150xauto-51.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>十三代目(クリスマスデザイン)</p>
+
+<p><a href="/image/nndyU6OK.jpg" data-lightbox="sample"><img alt="nndyU6OK.jpg" src="/assets_c/2019/03/nndyU6OK-thumb-150xauto-53.jpg" class="mt-image-none" width="150" height="150" /></a><a href="/image/IMG_1925.jpg" data-lightbox="sample"><img alt="IMG_1925.jpg" src="/assets_c/2019/03/IMG_1925-thumb-150xauto-55.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>十四代目(二枚目はアイコン用に線画デジタル化したやつ)</p>
+
+<p><a href="/image/IMG_3136.jpg" data-lightbox="sample"><img alt="IMG_3136.jpg" src="/assets_c/2019/03/IMG_3136-thumb-150xauto-57.jpg" class="mt-image-none" width="150" height="150" /></a><a href="/image/IMG_3139.png" data-lightbox="sample"><img alt="IMG_3139.png" src="/assets_c/2019/03/bd622001ce7099702a0c4a86ea74caaba11b4260-thumb-150xauto-61.png" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>十五代目(現<a href="https://twitter.com/eizi2002b" target="_blank" rel="noopener noreferrer">@eizi2002b</a>アイコン)</p>
+
+<p><a href="/image/IMG_3496.jpg" data-lightbox="sample"><img alt="IMG_3496.jpg" src="/assets_c/2019/03/IMG_3496-thumb-autox164-63.jpg" class="mt-image-none" width="150" height="164" /></a></p>
+
+<h2 id="派生等">派生等</h2>
+
+<p>三代目線画(?)バージョン(投稿サイト用アイコン)</p>
+
+<p><a href="/image/a6kz81ry.png" data-lightbox="sample"><img alt="a6kz81ry.png" src="/image/a6kz81ry.png" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>三代目byハロウィン</p>
+
+<p><a href="/image/6UUXVr8j.jpg" data-lightbox="sample"><img alt="6UUXVr8j.jpg" src="/assets_c/2019/03/6UUXVr8j-thumb-150xauto-24.jpg" class="mt-image-none" width="150" height="150" /></a></p>
+
+<p>十代目byハロウィン</p>
+
+<p><a href="/image/IMG_3975.JPG" data-lightbox="sample"><img alt="IMG_3975.JPG" src="/assets_c/2019/03/IMG_3975-thumb-350xauto-65.jpg" class="mt-image-none" width="350" height="205" /></a></p>
+
+<p>パーマ君(コテキャラ候補)</p>
+
+<p><a href="/image/94cd7434f8c5e11fd7c12ca2ac9bb4eed2aa5f4a.png" data-lightbox="sample"><img alt="えいじ.png" src="/assets_c/2019/03/94cd7434f8c5e11fd7c12ca2ac9bb4eed2aa5f4a-thumb-150xauto-67.png" class="mt-image-none" width="150" height="150" /></a></p>
+
+<h2 id="おまけ">おまけ</h2>
+
+<p>中三の誕生日祝い</p>
+
+<p><a href="/image/DHVPFJQXUAAO6Ve_orig.jpg" data-lightbox="sample"><img alt="DHVPFJQXUAAO6Ve_orig.jpg" src="/assets_c/2019/03/DHVPFJQXUAAO6Ve_orig-thumb-1536x2048-69.jpg" class="mt-image-none" width="245" height="327" /></a></p>
+
+<p>高校合格祝い</p>
+
+<p><a href="/image/IMG_3976.jpg" data-lightbox="sample"><img alt="IMG_3976.jpg" src="/assets_c/2019/03/IMG_3976-thumb-768x1024-71.jpg" class="mt-image-none" width="246" height="328" /></a></p>
+
+<p>落書き(???)</p>
+
+<p><a href="/image/9696ad0eda4ab1086fa3faae3528215645957a60.jpg" data-lightbox="sample"><img alt="IMG_3136.jpg" src="/assets_c/2019/03/9696ad0eda4ab1086fa3faae3528215645957a60-thumb-250xauto-73.jpg" class="mt-image-none" width="250" height="250" /></a></p>
+
+<p>お疲れイラスト</p>
+
+<p><a href="/image/c61e95df574c70a8e3ec7b62b311019b7d9d0371.jpg" data-lightbox="sample"><img alt="IMG_3496.jpg" src="/assets_c/2019/03/c61e95df574c70a8e3ec7b62b311019b7d9d0371-thumb-autox274-75.jpg" class="mt-image-none" width="250" height="274" /></a></p>
+
+<p>中学時代(部活時代)の劇薬</p>
+
+<p><a href="/image/CvmP9AGVUAQHNSa_orig.jpg" data-lightbox="sample"><img alt="CvmP9AGVUAQHNSa_orig.jpg" src="/assets_c/2019/03/CvmP9AGVUAQHNSa_orig-thumb-640x480-78.jpg" class="mt-image-none" width="260" height="195" /></a></p>
+
+<p><a href="/image/CvmP6olUAAIgwYk_orig.jpg" data-lightbox="sample"><img alt="CvmP6olUAAIgwYk_orig.jpg" src="/assets_c/2019/03/CvmP6olUAAIgwYk_orig-thumb-640x480-77.jpg" class="mt-image-none" width="305" height="229" /></a></p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>初音ミク10周年</title>
+			<link>https://eizi2002.skr.jp/posts/2017-08-31-10/</link>
+			<pubDate>Wed, 30 Aug 2017 15:00:23 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2017-08-31-10/</guid>
+			<description>10秒クォリティ！#初音ミク10周年 #初音ミク生誕祭2017 #miku10th pic.twitter.com/ciIdQF9ERY &amp;mdash; 英治🎺(a.k.a.レイエス) (@eizi2002b) August 30, 2017 [https://twitter.com/eizi2002b/status/902908971886845953] ブロトピ：更新報告所 ブロトピ：今日</description>
+			<content type="html"><![CDATA[<p><blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">10秒クォリティ！<a href="https://twitter.com/hashtag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF10%E5%91%A8%E5%B9%B4?src=hash&amp;ref_src=twsrc%5Etfw">#初音ミク10周年</a> <a href="https://twitter.com/hashtag/%E5%88%9D%E9%9F%B3%E3%83%9F%E3%82%AF%E7%94%9F%E8%AA%95%E7%A5%AD2017?src=hash&amp;ref_src=twsrc%5Etfw">#初音ミク生誕祭2017</a> <a href="https://twitter.com/hashtag/miku10th?src=hash&amp;ref_src=twsrc%5Etfw">#miku10th</a> <a href="https://t.co/ciIdQF9ERY">pic.twitter.com/ciIdQF9ERY</a></p>&mdash; 英治🎺(a.k.a.レイエス) (@eizi2002b) <a href="https://twitter.com/eizi2002b/status/902908971886845953?ref_src=twsrc%5Etfw">August 30, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+[<a href="https://twitter.com/eizi2002b/status/902908971886845953">https://twitter.com/eizi2002b/status/902908971886845953</a>]</p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>五時間超生放送してた話</title>
+			<link>https://eizi2002.skr.jp/posts/2017-08-03-post_7/</link>
+			<pubDate>Thu, 03 Aug 2017 13:44:12 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2017-08-03-post_7/</guid>
+			<description>元凶:https://www.openrec.tv/live/hy2rzj1Lj1D &amp;#xA0; さて、ここで皆が思うであろう。｢勉強は？？｣と。 僕もだ</description>
+			<content type="html"><![CDATA[<p>元凶:<a href="https://www.openrec.tv/live/hy2rzj1Lj1D">https://www.openrec.tv/live/hy2rzj1Lj1D</a></p>
+
+<p>&#xA0;</p>
+
+<p>さて、ここで皆が思うであろう。｢勉強は？？｣と。</p>
+
+<p>僕もだ←おい</p>
+
+<p>てなわけで学校帰って昼飯休憩込みの計五時間放送してたわけですよ。てか昼飯(15分)抜いても五時間だよふざけんな。</p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>音街ウナのChromeテーマをおもむろに作ったお話</title>
+			<link>https://eizi2002.skr.jp/posts/2017-06-10-chrome/</link>
+			<pubDate>Sat, 10 Jun 2017 13:30:49 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2017-06-10-chrome/</guid>
+			<description>さっき音街ウナのChromeテーマを作ってみましたよ。 テーマをほぼ一発で作るサイトで作って公開したからそこからどうぞ https://shar.es/1RFgIa 一応細かい調整も組んだ</description>
+			<content type="html"><![CDATA[<p>さっき音街ウナのChromeテーマを作ってみましたよ。<br />
+テーマをほぼ一発で作るサイトで作って公開したからそこからどうぞ</p>
+
+<p><a href="https://shar.es/1RFgIa">https://shar.es/1RFgIa</a></p>
+
+<p>一応細かい調整も組んだから違和感はない・・・というわけでもなくね・・・。</p></p>
+
+<p><a href="/image/244bda1e0a45aef51cb4a257fa81379519a59183.webp" data-lightbox="sample"><img alt="31abaec122ef5232e929e25ef398620d.pngのサムネイル画像" src="/image/244bda1e0a45aef51cb4a257fa81379519a59183.webp" class="mt-image-left" style="float: left; margin: 0 20px 20px 0;" width="728" height="582" /></a></p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>音屋</title>
+			<link>https://eizi2002.skr.jp/posts/2016-10-22-post_3/</link>
+			<pubDate>Sat, 22 Oct 2016 13:36:05 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2016-10-22-post_3/</guid>
+			<description>合唱コンのCDが来たけど、一曲がめっちゃトラックバラバラに分解されていて、 通して聴くにはブチブチ途切れて面倒なので、よっしゃとAudacit</description>
+			<content type="html"><![CDATA[<p>合唱コンのCDが来たけど、一曲がめっちゃトラックバラバラに分解されていて、</p>
+
+<p>通して聴くにはブチブチ途切れて面倒なので、よっしゃとAudacity使って全トラック結合したバージョンを作り上げて、ついでに無かったカラオケもろともCDに詰め込みました。</p>
+
+<p>一応役立ったらしいですが、事情を知らない先生が本番会場に行く際のバスで流したトラックはバラバラのやつでした・・・。</p>
+
+<p>(※バラバラのも練習用に必要なのでちゃんと入れました。)</p>
+
+<p>これぞ音(の編集)屋ｗ</p>
+
+<p><img class="alignnone size-full wp-image-1063" src="https://eizi2002.skr.jp/image/f81fd2e4c52864042852c112ce927ae2.jpg" alt="" width="297" height="170" /></p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>アイコンその２</title>
+			<link>https://eizi2002.skr.jp/posts/2016-08-17-post_5/</link>
+			<pubDate>Wed, 17 Aug 2016 08:34:04 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2016-08-17-post_5/</guid>
+			<description>企画参加でまた違った絵柄でアイコン絵が！すごい！！ ブロトピ：更新報告所 ブロトピ：今日のブログ更新 ブロトピ：自由に追加できるブロトピ ブロトピ：</description>
+			<content type="html"><![CDATA[<p>企画参加でまた違った絵柄でアイコン絵が！すごい！！</p>
+
+<p><a href="http://eblog.webcrow.jp/blogn2611a/blognplus/files/CqC8OpyVYAAgjrs.jpg" target="_blank" data-lightbox="sample" rel="noopener noreferrer"><img src="http://eblog.webcrow.jp/blogn2611a/blognplus/files/CqC8OpyVYAAgjrs.jpg" width="240" height="240" alt="" /></img></a></p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>アイコン</title>
+			<link>https://eizi2002.skr.jp/posts/2016-08-17-post_4/</link>
+			<pubDate>Wed, 17 Aug 2016 07:12:40 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2016-08-17-post_4/</guid>
+			<description>リア友がアイコン描いてくれたよ！ありがと！ ブロトピ：更新報告所 ブロトピ：今日のブログ更新 ブロトピ：自由に追加できるブロトピ ブロトピ：目指せ！</description>
+			<content type="html"><![CDATA[<p>リア友がアイコン描いてくれたよ！ありがと！<br />
+<img src="/image/CqCxeU_XEAIVDRW.jpg" alt="" width="277" height="240" /></img></p>
+
+<p></br></p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+		<item>
+			<title>動画投稿したぞ</title>
+			<link>https://eizi2002.skr.jp/posts/2016-07-30-post/</link>
+			<pubDate>Sat, 30 Jul 2016 03:34:26 +0000</pubDate>
+			
+			<guid>https://eizi2002.skr.jp/posts/2016-07-30-post/</guid>
+			<description>最近やっと自作的な動画が作れた気がする。 スミソアエの夜のカラオケ版投稿しました。 ブロトピ：更新報告所 ブロトピ：今日のブログ更新 ブロトピ：自由</description>
+			<content type="html"><![CDATA[<p>最近やっと自作的な動画が作れた気がする。</p>
+
+<p>スミソアエの夜のカラオケ版投稿しました。
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KqC9E5pMHHQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p style="text-align: left;">
+  <a href="https://blogcircle.jp/commu/1911/topic/1"><img src="https://blogcircle.jp/thumb/commu/1911/1" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：更新報告所</a><br /> <a href="https://blogcircle.jp/commu/414/topic/3"><img src="https://blogcircle.jp/thumb/commu/414/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日のブログ更新</a> <br /> <a href="https://blogcircle.jp/commu/583/topic/6"><img src="https://blogcircle.jp/thumb/commu/583/3" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：自由に追加できるブロトピ</a> <br /> <a href="https://blogcircle.jp/commu/1097/topic/1"><img src="https://blogcircle.jp/thumb/commu/1097/6" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：目指せ！ホットエントリー！！みんなの記事</a> <br /> <a href="https://blogcircle.jp/commu/29/topic/1"><img src="https://blogcircle.jp/thumb/commu/29/2" style="width: 3em !important; height: 3em !important; vertical-align: middle; margin-right: .4em;" />ブロトピ：今日の雑談日記</a>
+</p>
+]]></content>
+		</item>
+		
+	</channel>
+</rss>

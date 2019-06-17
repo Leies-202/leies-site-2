@@ -1,0 +1,159 @@
+baseURL = "https://eizi2002.skr.jp"
+languageCode = "ja-jp"
+defaultContentLanguage = "ja"
+title = "Leies"
+theme = "hermit"
+#enableGitInfo = true
+pygmentsCodefences  = true
+pygmentsUseClasses  = true
+hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content language, enable this to make wordCount works right.
+rssLimit = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
+googleAnalytics = "UA-87433732-6"
+disqusShortname = "eizi2002-home"
+
+[author]
+  name = "Leies"
+
+[blackfriday]
+  # hrefTargetBlank = true
+  # noreferrerLinks = true
+  # nofollowLinks = true
+
+[taxonomies]
+  tag = "tags"
+  # Categories are disabled by default.
+
+[params]
+  dateform        = "Jan 2, 2006"
+  dateformShort   = "Jan 2"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+[frontmatter]
+lastmod = ["lastmod", ":fileModTime", ":default"]
+
+  # Metadata mostly used in document's head
+  description = "レイエスのホームページ"
+  images = ["avater2.png"]
+  themeColor = "#494f5c"
+
+  homeSubtitle = "そこら辺の人間。"
+  footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+  bgImg = "avater2.png"  # Homepage background-image URL
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
+
+  # Toggling this option needs to rebuild SCSS, requires Hugo extended version
+  justifyContent = false  # Set "text-align: justify" to `.content`.
+
+  # Add custom css
+  # customCSS = ["css/foo.css", "css/bar.css"]
+
+  # Social Icons
+  # Check https://github.com/Track3/hermit#social-icons for more info.
+  [[params.social]]
+    name = "twitter"
+    url = "https://twitter.com/Leies_202/"
+
+  [[params.social]]
+    name = "github"
+    url = "https://github.com/eizi2002/"
+
+  [[params.social]]
+    name = "slack"
+    url = "https://leies202.slack.com/"
+
+  [[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UC_UPoBTzd57PVP5ssOh743g"
+
+  [[params.social]]
+    name = "telegram"
+    url = "https://t.me/leies_202/"
+
+  [[params.social]]
+    name = "email"
+    url = "mailto:lei@eizi2002.skr.jp"
+
+[menu]
+
+  [[Languages.ja.menu.main]]
+    name = "投稿一覧"
+    url = "posts/"
+    weight = 20
+
+  [[Languages.ja.menu.main]]
+    name = "プロフィール"
+    url = "about/"
+    weight = 10
+
+  [[Languages.ja.menu.main]]
+    name = "アカウントリスト"
+    url = "link/"
+    weight = 50
+
+  [[Languages.ja.menu.main]]
+    name = "創作"
+    url = "contents/"
+    weight = 30
+
+  [[Languages.ja.menu.main]]
+    name = "Una-IME"
+    url = "una-ime/"
+    weight = 40
+
+  [[Languages.ja.menu.main]]
+    name = "GitHubPages"
+    url = "https://eizi2002.github.io/"
+    weight = 60
+
+[Languages]
+  [Languages.ja]
+    weight = 1
+  description = "レイエスのホームページ"
+    title = "Leies"
+
+
+  dateform        = "2006-01-02"
+  dateformShort   = "1月2日"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04"
+
+  [Languages.en]
+    weight = 2
+	homeSubtitle = "Ordinary human."
+	description = "Leies's homepage"
+
+  [[Languages.en.menu.main]]
+    name = "About+Profile"
+    url = "about/"
+    weight = 10
+
+  [[Languages.en.menu.main]]
+    name = "GitHubPages"
+    url = "https://eizi2002.github.io/en/"
+    weight = 50
+
+  [Languages.cn]
+    weight = 3
+	homeSubtitle = "一个人滚来滚去"
+	title = "零江洲"
+	description = "零江洲网站"
+
+  [[Languages.cn.menu.main]]
+    name = "关于+轮廓"
+    url = "about/"
+    weight = 10
+
+  [[Languages.cn.menu.main]]
+    name = "链接(微博等......)"
+    url = "link/"
+    weight = 20
+
+  [[Languages.cn.menu.main]]
+    name = "GitHubPages"
+    url = "https://eizi2002.github.io/cn/"
+    weight = 50

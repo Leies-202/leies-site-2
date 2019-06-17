@@ -1,0 +1,167 @@
+baseURL = "https://eizi2002.skr.jp"
+title   = "Leies"
+languageCode = "ja-jp"
+DefaultContentLanguage = "ja"
+
+hasCJKLanguage = true
+
+theme = "hello-friend-ng"
+
+PygmentsCodeFences = true
+PygmentsStyle = "monokai"
+
+rssLimit  = 10  # Maximum number of items in the RSS feed.
+copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
+
+googleAnalytics = "UA-87433732-6"
+disqusShortname = "eizi2002-home"
+
+archetypeDir = "archetypes"
+contentDir   = "content"
+dataDir      = "data"
+layoutDir    = "layouts"
+publishDir   = "public"
+
+buildDrafts  = false
+buildFuture  = false
+buildExpored = false
+canonifyURLs = true
+
+enableRobotsTXT = true
+enableGitInfo   = false
+enableEmoji     = true
+enableMissingTranslationPlaceholders = false
+disableRSS     = false
+disableSitemap = false
+disable404     = false
+disableHugoGeneratorInject = false
+
+[permalinks]
+  posts = "/posts/:year/:month/:title/"
+
+[author]
+  name = "Leies"
+
+[blackfriday]
+  hrefTargetBlank = true
+
+[taxonomies]
+  tag      = "tags"
+  category = ""
+
+[params]
+  dateform        = "2006-01-02"
+  dateformShort   = "1月2日"
+  dateformNum     = "2006-01-02"
+  dateformNumTime = "2006-01-02 15:04 -0700"
+
+  # Metadata mostly used in document's head
+  description = "レイエスが色々やるサイト"
+  keywords = "Leies,レイエス"
+  images = ["avater2.png"]
+
+  homeSubtitle = "そこら辺の人間。"
+
+  # Prefix of link to the git commit detail page. GitInfo must be enabled.
+  # gitUrl = ""
+
+  # Integrate Javascript files or stylesheets by adding the url to the external assets or by
+  # linking local files with their path relative to the static folder, e.g. "css/styles.css"
+  customCSS = []
+  customJS  = []
+
+  # Toggle this option need to rebuild SCSS, requires extended version of Hugo
+  justifyContent = false  # Set "text-align: justify" to .content.
+
+  # Directory name of your blog content (default is `content/posts`)
+  contentTypeName = "posts"
+  # Default theme "light" or "dark"
+  defaultTheme = "dark"
+  themeColor = "#252627"
+
+  [params.logo]
+    logoText     = "$ cd /home/"
+    logoHomeLink = "/"
+
+  # Social icons
+  [[params.social]]
+    name = "twitter"
+    url  = "https://twitter.com/Leies_202/"
+
+  [[params.social]]
+    name = "github"
+    url  = "https://github.com/eizi2002/"
+
+  [[params.social]]
+    name = "slack"
+    url = "https://leies202.slack.com/"
+
+  [[params.social]]
+    name = "youtube"
+    url = "https://www.youtube.com/channel/UC_UPoBTzd57PVP5ssOh743g"
+
+  [[params.social]]
+    name = "telegram"
+    url = "https://t.me/leies_202/"
+
+  [[params.social]]
+    name = "email"
+    url  = "mailto:lei@leies202.skr.jp"
+
+[languages]
+  [languages.ja]
+    weight    = 1
+	homeSubtitle = "そこら辺の人間。"
+	copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.en]
+    subtitle  = "Hello Friend NG Theme"
+    weight    = 2
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+  [languages.cn]
+    subtitle  = "Hello Friend NG Theme"
+	homeSubtitle = "???"
+    weight    = 3
+    copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
+
+[menu]
+  [[Languages.ja.menu.main]]
+    name = "投稿"
+    url = "posts/"
+    weight = 20
+
+  [[Languages.ja.menu.main]]
+    name = "Profile"
+    url = "about/"
+    weight = 10
+
+  [[Languages.ja.menu.main]]
+    name = "各アカウント一覧"
+    url = "link/"
+    weight = 50
+
+  [[Languages.ja.menu.main]]
+    name = "創作"
+    url = "contents/"
+    weight = 30
+
+  [[Languages.ja.menu.main]]
+    name = "Misskey-orz"
+    url = "misskey/"
+    weight = 40
+
+  [[Languages.en.menu.main]]
+    name = "About"
+    url = "about/"
+    weight = 10
+
+  [[Languages.cn.menu.main]]
+    name = "关于+轮廓"
+    url = "about/"
+    weight = 10
+
+  [[Languages.cn.menu.main]]
+    name = "链接(微博等......)"
+    url = "link/"
+    weight = 20

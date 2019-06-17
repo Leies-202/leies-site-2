@@ -114,7 +114,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
   [Languages.ja]
     weight = 1
   description = "レイエスのホームページ"
-    title = "Leies"
+    title = "Leies_Home"
 
 
   dateform        = "2006-01-02"

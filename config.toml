@@ -1,7 +1,7 @@
 baseURL = "https://eizi2002.skr.jp"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
-title = "Leies"
+title = "Leies_Home"
 theme = "hermit"
 #enableGitInfo = true
 pygmentsCodefences  = true
@@ -14,7 +14,7 @@ googleAnalytics = "UA-87433732-6"
 disqusShortname = "eizi2002-home"
 
 [author]
-  name = "Leies_Home"
+  name = "Leies"
 
 [blackfriday]
   # hrefTargetBlank = true

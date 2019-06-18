@@ -10,8 +10,8 @@ categories:
   - 重要
 
 
-permalinks:
-  posts: /2019/03/friendsnico.html
+aliases:
+    - /2019/03/friendsnico.html
 ---
 ※前置き長いので引越し先の本題だけみたい人は<a href="#hon">ここ</a>クリック
 

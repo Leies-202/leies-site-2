@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 15 Jun 2019 18:01:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 23:50:06 +0900</lastBuildDate>
     
 	<atom:link href="https://eizi2002.skr.jp/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>untagged</title>
+      <link>https://eizi2002.skr.jp/tags/untagged/</link>
+      <pubDate>Tue, 18 Jun 2019 23:50:06 +0900</pubDate>
+      
+      <guid>https://eizi2002.skr.jp/tags/untagged/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>日記</title>

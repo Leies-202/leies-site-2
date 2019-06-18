@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 16 Jun 2019 13:51:21 +0900</lastBuildDate>
+    <lastBuildDate>Tue, 18 Jun 2019 23:50:06 +0900</lastBuildDate>
     
 	<atom:link href="https://eizi2002.skr.jp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>毎年恒例と化してる夜の道の話</title>
+      <link>https://eizi2002.skr.jp/posts/2019-06-18-yorunomiti/</link>
+      <pubDate>Tue, 18 Jun 2019 23:50:06 +0900</pubDate>
+      
+      <guid>https://eizi2002.skr.jp/posts/2019-06-18-yorunomiti/</guid>
+      <description>今年も久々に塾が閉まるまでいろいろやってた。 相変わらず帰りの道は車通りが全くない。 道路のど真ん中で大の字で寝っ転がりたいとすら思えてくるが、</description>
+    </item>
     
     <item>
       <title>Una-IME(ウナ辞書)</title>
@@ -91,15 +100,6 @@
       
       <guid>https://eizi2002.skr.jp/posts/2019-03-25-wordpress/</guid>
       <description>前提:いろいろ言っていますが、当メインサイトはWordPressに戻すことはないでしょう(普通に面倒くさい) さくらのレンタルサーバーを契約し</description>
-    </item>
-    
-    <item>
-      <title>音街ウナChromeテーマ第二弾</title>
-      <link>https://eizi2002.skr.jp/posts/2019-03-22-chrome-1/</link>
-      <pubDate>Thu, 21 Mar 2019 16:10:02 +0000</pubDate>
-      
-      <guid>https://eizi2002.skr.jp/posts/2019-03-22-chrome-1/</guid>
-      <description>動機 音街ウナ公式アカウント様よりとんでもないものが降ってきたため(( V1(正方形ディスプレイ向け)一覧 夜の街 白ワンピ 街路樹のある道 海辺の家(</description>
     </item>
     
   </channel>

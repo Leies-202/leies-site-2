@@ -60,7 +60,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 
   [[params.social]]
     name = "github"
-    url = "https://github.com/eizi2002/"
+    url = "https://github.com/Leies-202/"
 
   [[params.social]]
     name = "slack"
@@ -107,7 +107,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 
   [[Languages.ja.menu.main]]
     name = "GitHubPages"
-    url = "https://eizi2002.github.io/"
+    url = "https://Leies-202.github.io/"
     weight = 60
 
 [Languages]
@@ -134,7 +134,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 
   [[Languages.en.menu.main]]
     name = "GitHubPages"
-    url = "https://eizi2002.github.io/en/"
+    url = "https://Leies-202.github.io/en/"
     weight = 50
 
   [Languages.cn]
@@ -155,5 +155,5 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 
   [[Languages.cn.menu.main]]
     name = "GitHubPages"
-    url = "https://eizi2002.github.io/cn/"
+    url = "https://Leies-202.github.io/cn/"
     weight = 50

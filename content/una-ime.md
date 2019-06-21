@@ -17,7 +17,7 @@ aliases:
 
 使用方法、顔文字追加要求等はリンク先より。
 
-[ダウンロード](https://github.com/eizi2002/Una-dic/)  
+[ダウンロード](https://github.com/Leies-202/Una-dic/)  
 ___
 ## 更新情報
 -------[#ウナ辞書更新情報 Tweets](https://twitter.com/hashtag/%E3%82%A6%E3%83%8A%E8%BE%9E%E6%9B%B8%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1)

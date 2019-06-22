@@ -30,7 +30,7 @@ I am a high school grade
 
 I am a meimei(GitHub and Misskey:@mei23) fanatic.
 
-I get somewhat of HTML5 and　MovableType(?).
+I get somewhat of HTML5(?).
 
 Phantasy Star Online 2 player and belongs to ship 4 (ansuru).
 
@@ -43,7 +43,7 @@ from:音楽とうなぎの街
 ### Are doing
 ･Operation of Misskey on a server installed at home
 
-･Blog using MovableType
+･Blog using Hugo
 
 ･Create a modified MisskeyBot(ia)
 

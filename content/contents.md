@@ -8,11 +8,12 @@ aliases:
     - /eizi2002/
 ---
 ## 音楽(適当)
+[piapro](https://piapro.jp/eizi2002)
+
 [SoundCloud](https://soundcloud.com/leies202)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/users/258921197&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 
-[piapro](https://piapro.jp/eizi2002)
 
 ## 動画
 [niconico](https://www.nicovideo.jp/user/49834887)
@@ -32,6 +33,6 @@ aliases:
 
 ･このサイト
 
-･[藍Bot](https://github.com/syuilo/ai/)改造された[いあBot](https://github.com/mei23/ai/)をさらに[セリフ変更したやつ](https://github.com/eizi2002/ai/)
+･[藍Bot](https://github.com/syuilo/ai/)改造された[いあBot](https://github.com/mei23/ai/)をさらに[セリフ変更したやつ](https://github.com/leies-202/ai/)
 
 ･[Scratch](https://scratch.mit.edu/users/eizi2002/)

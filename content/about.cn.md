@@ -31,7 +31,7 @@ ID：eizi2002，Leies等..
 
 我是一个meimei（Github和Misskey：@ mei23）的狂热分子。
 
-我得到一些HTML5和MovableType。
+我得到一些HTML5。
 
 
 我可以在早上或午夜时出现。
@@ -43,7 +43,7 @@ ID：eizi2002，Leies等..
 ### 是做
 ･Misskey在家中安装的服务器上的操作
 
-･使用MovableType的博客
+･使用Hugo的博客
 
 ･创建一个修改过的MisskeyBot（ia）
 

@@ -53,7 +53,7 @@ from:音楽とうなぎの街
 ### 今のところやってる
 ･自宅鯖でMisskey掘っ建て/運営
 
-･MovableType使ってブログ
+･Hugo使ってブログ
 
 ･申し訳程度の改造したMisskeyBot(いあ)の作成
 

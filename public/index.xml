@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 18 Jun 2019 23:50:06 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 13:17:45 +0900</lastBuildDate>
     
 	<atom:link href="https://eizi2002.skr.jp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>夏コミの二コフレ同人誌の話</title>
+      <link>https://eizi2002.skr.jp/posts/c96-frenico/</link>
+      <pubDate>Sat, 22 Jun 2019 13:17:45 +0900</pubDate>
+      
+      <guid>https://eizi2002.skr.jp/posts/c96-frenico/</guid>
+      <description>こんにちは。 今年も今年で夏コミ参戦しないとなぁと思っていた2019年03月28日、例の衝撃的な核爆弾が降ってきた。 まぁ何度も嘆いてるfrie</description>
+    </item>
     
     <item>
       <title>毎年恒例と化してる夜の道の話</title>
@@ -81,7 +90,7 @@
       <pubDate>Sun, 05 May 2019 16:15:42 +0900</pubDate>
       
       <guid>https://eizi2002.skr.jp/contents/</guid>
-      <description>音楽(適当) SoundCloud piapro 動画 niconico YouTube 小説 カクヨム その他 ･ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME) ･このサイト ･藍Bot改造されたいあ</description>
+      <description>音楽(適当) piapro SoundCloud 動画 niconico YouTube 小説 カクヨム その他 ･ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME) ･このサイト ･藍Bot改造されたいあ</description>
     </item>
     
     <item>
@@ -91,15 +100,6 @@
       
       <guid>https://eizi2002.skr.jp/posts/2019-03-29-friendsnico/</guid>
       <description>※前置き長いので引越し先の本題だけみたい人はここクリック 前置き こんにちは。 自分のMisskeyインスタンスを(めいめいの圧倒的支援もあり)自</description>
-    </item>
-    
-    <item>
-      <title>結局WordPressからは逃れられなかった話</title>
-      <link>https://eizi2002.skr.jp/posts/2019-03-25-wordpress/</link>
-      <pubDate>Mon, 25 Mar 2019 09:42:18 +0000</pubDate>
-      
-      <guid>https://eizi2002.skr.jp/posts/2019-03-25-wordpress/</guid>
-      <description>前提:いろいろ言っていますが、当メインサイトはWordPressに戻すことはないでしょう(普通に面倒くさい) さくらのレンタルサーバーを契約し</description>
     </item>
     
   </channel>

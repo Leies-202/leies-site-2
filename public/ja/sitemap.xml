@@ -4,7 +4,7 @@
   
   <url>
     <loc>https://eizi2002.skr.jp/</loc>
-    <lastmod>2019-06-21T22:03:13+09:00</lastmod>
+    <lastmod>2019-06-22T15:42:48+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -25,13 +25,13 @@
   
   <url>
     <loc>https://eizi2002.skr.jp/posts/</loc>
-    <lastmod>2019-06-18T23:59:36+09:00</lastmod>
+    <lastmod>2019-06-22T15:42:48+09:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://eizi2002.skr.jp/tags/</loc>
-    <lastmod>2019-06-18T23:59:36+09:00</lastmod>
+    <lastmod>2019-06-22T15:42:48+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -48,6 +48,29 @@
                 hreflang="ja"
                 href="https://eizi2002.skr.jp/tags/"
                 />
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.skr.jp/tags/%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B/</loc>
+    <lastmod>2019-06-22T15:42:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.skr.jp/tags/%E5%91%8A%E7%9F%A5/</loc>
+    <lastmod>2019-06-22T15:42:48+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.skr.jp/posts/c96-frenico/</loc>
+    <lastmod>2019-06-22T15:42:48+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.skr.jp/tags/%E6%97%A5%E8%A8%98/</loc>
+    <lastmod>2019-06-22T15:42:48+09:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -77,19 +100,13 @@
   </url>
   
   <url>
-    <loc>https://eizi2002.skr.jp/tags/%E6%97%A5%E8%A8%98/</loc>
-    <lastmod>2019-06-15T21:19:34+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://eizi2002.skr.jp/posts/cdmzh/</loc>
     <lastmod>2019-06-15T21:19:34+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://eizi2002.skr.jp/about/</loc>
-    <lastmod>2019-06-16T13:48:46+09:00</lastmod>
+    <lastmod>2019-06-22T13:05:16+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -124,7 +141,7 @@
   
   <url>
     <loc>https://eizi2002.skr.jp/contents/</loc>
-    <lastmod>2019-06-16T13:49:38+09:00</lastmod>
+    <lastmod>2019-06-22T13:07:43+09:00</lastmod>
   </url>
   
   <url>

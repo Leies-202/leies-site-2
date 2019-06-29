@@ -86,7 +86,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
     weight = 20
 
   [[Languages.ja.menu.main]]
-    name = "プロフィール"
+    name = "About"
     url = "about/"
     weight = 10
 

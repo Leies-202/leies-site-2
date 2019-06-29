@@ -1,5 +1,5 @@
 ---
-title: "Profile"
+title: "NEWS+Profile+Other"
 tos: true
 date: 2019-05-05T16:23:31+09:00
 images: 

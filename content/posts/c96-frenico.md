@@ -29,7 +29,7 @@ tags:
 
 そうだよまともな寄稿なんて出来る人間じゃないよこのやろ((
 
-まぁ参加方法はともかく仮にも参加はしています。てか僕関係なく普通におすすめです。内容見てなくてもわかる。絶対カオスだから((
+まぁ参加方法はともかく仮にも参加はしています。てか私関係なく普通におすすめです。内容見てなくてもわかる。絶対カオスだから((
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">ニコフレ合同誌のここが凄い<br>・約30人のニコフレユーザーによる作品を収録。<br>・イラスト、小説、論文、写真など、ニコフレのタイムラインのようなカオス感を詰め込みました！<br>・55名のニコフレユーザーによるコメント<br>・ニコニコ非公認だけど、運営やプロも参加！？</p>&mdash; 火月夜つむり🍛 (@TsumuriHidukiya) <a href="https://twitter.com/TsumuriHidukiya/status/1136946139058491392?ref_src=twsrc%5Etfw">June 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -42,7 +42,7 @@ tags:
 
 さて、日曜日ですね。
 
-ここで僕が行きたい宗主がるなんの参加日(要するにデジタル(その他)ジャンル日)をご覧ください
+ここで私が行きたい宗主がるなんの参加日(要するにデジタル(その他)ジャンル日)をご覧ください
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">◎あなたのサークル「がるなん.com」は、月曜日　南地区“ス”ブロック－17b に配置されました。</p>&mdash; ガルナ(オワタP)@夏コミ4日目 南ス-17b (@tomatowt) <a href="https://twitter.com/tomatowt/status/1136907358578200576?ref_src=twsrc%5Etfw">June 7, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

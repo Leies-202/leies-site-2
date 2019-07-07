@@ -3,14 +3,8 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://eizi2002.skr.jp/blog/</loc>
-    <lastmod>2019-07-05T22:56:29+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://eizi2002.skr.jp/</loc>
-    <lastmod>2019-07-05T22:56:29+09:00</lastmod>
+    <lastmod>2019-07-08T00:24:52+09:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -30,13 +24,34 @@
   </url>
   
   <url>
+    <loc>https://eizi2002.skr.jp/link/</loc>
+    <lastmod>2019-07-07T21:22:22+09:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://eizi2002.skr.jp/cn/link/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://eizi2002.skr.jp/link/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://eizi2002.skr.jp/blog/</loc>
+    <lastmod>2019-07-05T22:56:29+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://eizi2002.skr.jp/blog/2019-06-29-test/</loc>
     <lastmod>2019-07-05T22:56:29+09:00</lastmod>
   </url>
   
   <url>
     <loc>https://eizi2002.skr.jp/posts/</loc>
-    <lastmod>2019-07-05T22:56:29+09:00</lastmod>
+    <lastmod>2019-07-08T00:24:52+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -117,7 +132,7 @@
   
   <url>
     <loc>https://eizi2002.skr.jp/about/</loc>
-    <lastmod>2019-07-05T22:56:29+09:00</lastmod>
+    <lastmod>2019-07-07T21:40:24+09:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -136,18 +151,8 @@
   </url>
   
   <url>
-    <loc>https://eizi2002.skr.jp/link/</loc>
-    <lastmod>2019-07-05T22:56:29+09:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://eizi2002.skr.jp/cn/link/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://eizi2002.skr.jp/link/"
-                />
+    <loc>https://eizi2002.skr.jp/account/</loc>
+    <lastmod>2019-07-07T20:40:33+09:00</lastmod>
   </url>
   
   <url>
@@ -157,7 +162,7 @@
   
   <url>
     <loc>https://eizi2002.skr.jp/posts/2019-03-29-friendsnico/</loc>
-    <lastmod>2019-07-05T22:56:29+09:00</lastmod>
+    <lastmod>2019-07-08T00:24:52+09:00</lastmod>
   </url>
   
   <url>

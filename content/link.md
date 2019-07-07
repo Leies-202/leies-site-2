@@ -1,19 +1,20 @@
 ---
 title: "Link"
-date: 2019-05-05T16:15:50+09:00
+date: 2019-07-07T20:43:06+09:00
 images: 
   - avater2.png
 ---
+## 当サイトバナー等
 
-## Leies
-[misskey.io](https://misskey.io/@eizi2002/)
+* リンクフリーです。
+* 報告自由。
+* https://eizi2002.skr.jp/ (必ずトップへ)
+* バナーは下記画像
+* 直リンク禁止
 
-[misskey-orz](https://eizi2002.orz.hm/@eizi2002/)
+[![new_2002.jpg](/image/new_2002.jpg)](/)
+___
 
-[meiskey(めいすきー)](https://misskey.m544.net/@eizi2002/)
-
-[Blog(二コフレ日記archive)](http://lei-202.sblo.jp/)
-
-[Blog(二コフレ野菜日記archive)](http://leies.sblo.jp/)
-
-[Twitter](https://twitter.com/Leies_202)
+## List
+[駄文同盟.com](http://www.dabun-doumei.com/)
+[![045.gif](/image/045.gif)](http://www.dabun-doumei.com/)

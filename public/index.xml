@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 29 Jun 2019 08:26:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 20:43:06 +0900</lastBuildDate>
     
 	<atom:link href="https://eizi2002.skr.jp/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Link</title>
+      <link>https://eizi2002.skr.jp/link/</link>
+      <pubDate>Sun, 07 Jul 2019 20:43:06 +0900</pubDate>
+      
+      <guid>https://eizi2002.skr.jp/link/</guid>
+      <description>当サイトバナー等 リンクフリーです。 報告自由。 https://eizi2002.skr.jp/ (必ずトップへ) バナーは下記画像 直リンク禁止 List 駄文同盟.com</description>
+    </item>
     
     <item>
       <title>test</title>
@@ -81,25 +90,16 @@
       <pubDate>Sun, 05 May 2019 16:23:31 +0900</pubDate>
       
       <guid>https://eizi2002.skr.jp/about/</guid>
-      <description>目次 目次 臨時情報 概要 細かい紹介（friends.nicoより） 今のところやってる やりたい link サイト各種事項 臨時情報 ｢夏コミ三日目(日曜日)西地</description>
+      <description>目次 目次 臨時情報 概要 細かい紹介（friends.nicoより） 今のところやってる やりたい サイト各種事項 臨時情報 ｢夏コミ三日目(日曜日)西地区</description>
     </item>
     
     <item>
-      <title>Link</title>
-      <link>https://eizi2002.skr.jp/link/</link>
+      <title>Accounts</title>
+      <link>https://eizi2002.skr.jp/account/</link>
       <pubDate>Sun, 05 May 2019 16:15:50 +0900</pubDate>
       
-      <guid>https://eizi2002.skr.jp/link/</guid>
-      <description>Leies misskey.io misskey-orz meiskey(めいすきー) Blog(二コフレ日記archive) Blog(二コフレ野菜日記archive) Twitter</description>
-    </item>
-    
-    <item>
-      <title>Contents</title>
-      <link>https://eizi2002.skr.jp/contents/</link>
-      <pubDate>Sun, 05 May 2019 16:15:42 +0900</pubDate>
-      
-      <guid>https://eizi2002.skr.jp/contents/</guid>
-      <description>音楽(適当) piapro SoundCloud 動画 niconico YouTube 小説 カクヨム その他 ･ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME) ･このサイト ･藍Bot改造されたいあ</description>
+      <guid>https://eizi2002.skr.jp/account/</guid>
+      <description>misskey.io misskey-orz meiskey(めいすきー) Blog(二コフレ日記archive) Blog(二コフレ野菜日記archive) Twitter 他､ニコニコ等は創作ページ</description>
     </item>
     
   </channel>

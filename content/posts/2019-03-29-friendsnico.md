@@ -22,60 +22,48 @@ aliases:
 
 そう、受験期から共にしてきた、Mastodon三大インスタンスとも呼ばれていた、二コフレこと[friends.nico](https://friends.nico/)が終わるのです。  
 
-さて、その関係であと約1ヶ月の猶予があるとはいえ自分含め大慌てです。  
+さて、その関係であと約1ヶ月猶予があるとはいえ自分やメジャーユーザーが大慌てです。  
 
-こんな引越し先リストが早速用意されたりもしています。  
-
-きりぼはきりたん丼に引越しだそうですが、ももなはどうなるの…。  
+きりぼはきりたん丼に引越しだそうですが、ももなはどうなるの…。←追記:friends.cafeにそっと居るという噂が
 
 私は引越し自体より引越ししても移しきれない今までのトゥートで悲鳴です。  
 
 特に｢[#今日のレイエス](https://friends.nico/tags/%E4%BB%8A%E6%97%A5%E3%81%AE%E3%83%AC%E3%82%A4%E3%82%A8%E3%82%B9)｣タグ等は残したい。  
 
-その中でも野菜の観察日記は。  
+その中でも野菜の観察日記は...。 
 
-アーカイブ機能がある？あれHTMLじゃないから。  
-
-jsonファイルは専門外中の専門外。  
-
-私が求めてるのそのままサーバー設置でどうにかなる青い鳥みたいなアーカイブHTMLです。  
-
-逆いえばサイトに今までの野菜観察日記を設置したい。  
+閉鎖後追記:ブログにできるだけ移行したけどやはり間に合わなかった。メロンの一部だけ。バックアップは取ったが気力が圧倒的に足りない。
 
 ### 二コフレからの引っ越しの件(本題) {#hon}
 で、ここからその引越し関係の情報です。  
 
-二コフレ非公式2期として、ベストフレンズ(best-friends.chat)が建ちましたが移行する気は失せました。公開が早すぎるんだよ二コフレで一番好きだったあの流速感が二コフレ終わる直前に消えるとかわけがわからないよ。  
+まず浮上多めの予定である本命の引越し先です。
 
-まず浮上多めの予定である本命の引越し先です。二コフレアプリも消えるみたいなのでもうマストドンは完全破棄でMisskeyにします。MisskeyはWebクライアントでも全然イけるので好きです。  
+1.[misskey.io](https://misskey.io/@eizi2002)
 
-1.[めいすきー](https://misskey.m544.net/@eizi2002/)  
+2.[friends.cafe]解放後おしとやかに参加予定(?)
 
-2.[Misskey-orz(自分で建てたインスタンス)](https://eizi2002.orz.hm/@eizi2002)  
+3.[Misskey-orz(自分で建てたインスタンス)](https://eizi2002.orz.hm/@eizi2002) 
 
-希に[misskey.io](https://misskey.io/@eizi2002)  
+希に[めいすきー](https://misskey.m544.net/@eizi2002/),[ベスフレ](https://best-friends.chat/@eizi2002)
 
 以上です。  
 
 次に、青い鳥です。  
-[@eizi2002](https://twitter.com/eizi2002)(あまり喋らない方)  
-[@eizi2002b](https://twitter.com/eizi2002b)(めっちゃ喋る方)  
+[@Leies_202](https://twitter.com/Leies_202)(夏コミ後メイン垢にします)
+[@eizi2002b](https://twitter.com/eizi2002b)(夏コミ後使用停止予定)  
 
-さらに、もう滅多に浮上しないでしょうがマストドンも置いときます。  
-
-言うて全部eizi2002だし(‘・ω・`)  
+他、少なくとも所属はしているインスタンス。
 
 1.[きりたん丼](https://kiritan.work/@eizi2002)  
 
-2.[神崎丼](https://knzk.me/@eizi2002)  
+2.[アスタルテ](https://kirishima.cloud/@lei202)  
 
 3.[Pawoo](https://pawoo.net/@eizi2002)  
 
-4.[vocalo丼](https://vocalodon.net/@eizi2002)  
+4.[ボカロ丼](https://vocalodon.net/@eizi2002)  
 
 5.[social](https://mastodon.social/@eizi2002)  
-
-6.[Pawoomusic](https://music.pawoo.net/@eizi2002)  
 
 まぁ、こんなものでしょう。  
 

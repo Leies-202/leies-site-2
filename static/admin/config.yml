@@ -9,7 +9,7 @@ public_folder: "/public"
 collections:
   - label: "Blog" # 管理画面のサイドバーで使う
     name: "blog" # 管理画面のパスで使う　例：/admin/collections/blog
-    folder: "content/blog" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
+    folder: "content/posts" # Markdownを保存するディレクトリ。Hugoのsectionにあたる
     create: true # 新しいページを作ることを許可する
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Markdownのファイル名　例：YYYY-MM-DD-title.md
     fields: # ページ作成画面で使う。Front Matterの値を書く

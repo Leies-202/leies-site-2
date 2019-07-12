@@ -1,7 +1,7 @@
-baseURL = "https://eizi2002.skr.jp"
+baseURL = "https://lei202.com"
 languageCode = "ja-jp"
 defaultContentLanguage = "ja"
-title = "Leies_Home"
+title = "lei202.com"
 theme = "hermit"
 #enableGitInfo = true
 pygmentsCodefences  = true
@@ -119,7 +119,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
   [Languages.ja]
     weight = 1
   description = "レイエスのホームページ"
-    title = "Leies_Home"
+    title = "lei202.com"
 
 
   dateform        = "2006-01-02"

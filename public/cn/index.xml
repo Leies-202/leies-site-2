@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>零江洲</title>
-    <link>https://eizi2002.skr.jp/cn/</link>
+    <link>https://lei202.com/cn/</link>
     <description>Recent content on 零江洲</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     
-	<atom:link href="https://eizi2002.skr.jp/cn/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://lei202.com/cn/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>关于</title>
-      <link>https://eizi2002.skr.jp/cn/about/</link>
+      <link>https://lei202.com/cn/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eizi2002.skr.jp/cn/about/</guid>
+      <guid>https://lei202.com/cn/about/</guid>
       <description>通知 comiket的friends.nico的小圈子朋友（服务已经完成）出现在Comiket 96上。 因为它一次作为一个词参加了。 是谁? eiz</description>
     </item>
     
     <item>
       <title>链接</title>
-      <link>https://eizi2002.skr.jp/cn/link/</link>
+      <link>https://lei202.com/cn/link/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://eizi2002.skr.jp/cn/link/</guid>
+      <guid>https://lei202.com/cn/link/</guid>
       <description>微博 QQ空间 哔哩哔哩</description>
     </item>
     

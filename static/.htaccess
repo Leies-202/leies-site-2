@@ -6,6 +6,19 @@ RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
 DirectoryIndex index.html index.htm index.shtml index.php index.cgi
 Options -Indexes
 
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^(www\.lei202\.com)(:80)? [NC]
+RewriteRule ^(.*) https://lei202.com/$1 [R=301,L]
+order deny,allow
+
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^(www\.)?[^.]+\.sakura\.ne\.jp$ [NC]
+RewriteRule .* https://lei202.com%{REQUEST_URI} [R=301,L]
+
+RewriteEngine On 
+RewriteCond %{HTTP_HOST} ^(www\.)?[^.]+\.skr\.jp$ [NC]
+RewriteRule .* https://lei202.com%{REQUEST_URI} [R=301,L]
+
 # BEGIN Browser Cache
 <ifModule mod_expires.c>
 ExpiresActive On

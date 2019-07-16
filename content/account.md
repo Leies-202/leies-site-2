@@ -16,4 +16,4 @@ images:
 
 [Twitter](https://twitter.com/Leies_202)
 
-他､ニコニコ等は[創作](https://eizi2002.skr.jp/contents/)ページ、GitHub等はTOPのアイコンに。
+他､ニコニコ等は[創作](https://lei202.com/contents/)ページ、GitHub等はTOPのアイコンに。

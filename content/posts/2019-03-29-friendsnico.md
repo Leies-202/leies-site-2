@@ -41,7 +41,7 @@ aliases:
 
 1.[misskey.io](https://misskey.io/@eizi2002)
 
-2.[friends.cafe]解放後おしとやかに参加予定(?)
+2.[friends.cafe](https://friends.cafe/@lei202/)
 
 3.[Misskey-orz(自分で建てたインスタンス)](https://eizi2002.orz.hm/@eizi2002) 
 
@@ -51,7 +51,6 @@ aliases:
 
 次に、青い鳥です。  
 [@Leies_202](https://twitter.com/Leies_202)(夏コミ後メイン垢にします)
-[@eizi2002b](https://twitter.com/eizi2002b)(夏コミ後使用停止予定)  
 
 他、少なくとも所属はしているインスタンス。
 
@@ -92,4 +91,4 @@ aliases:
 
 まぁ、私が一番あれだと思ってるのは…エクスポートファイルの件ですはい。  
 
-マジでどうしよう…オイゲンさんHTMLでのアーカイブを((
+マジでどうしよう…オイゲンさんHTMLでのアーカイブを

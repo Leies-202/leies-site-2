@@ -29,7 +29,7 @@ aliases:
 ## 小説
 [カクヨム](https://kakuyomu.jp/users/eizi2002/)
 ## その他
-･[ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME)](https://eizi2002.skr.jp/una-ime.html)
+･[ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME)](https://lei202.com/una-ime.html)
 
 ･このサイト
 

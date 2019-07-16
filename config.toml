@@ -10,14 +10,14 @@ hasCJKLanguage = true  # If Chinese/Japanese/Korean is your main content languag
 rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
-googleAnalytics = "UA-87433732-6"
+googleAnalytics = "UA-87433732-12"
 disqusShortname = "eizi2002-home"
 
 [author]
   name = "Leies"
 
 [blackfriday]
-  # hrefTargetBlank = true
+  hrefTargetBlank = true
   # noreferrerLinks = true
   # nofollowLinks = true
 
@@ -76,7 +76,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
 
   [[params.social]]
     name = "email"
-    url = "mailto:lei@eizi2002.skr.jp"
+    url = "mailto:lei@lei202.com"
 
 [menu]
 

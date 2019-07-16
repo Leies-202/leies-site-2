@@ -1,5 +1,7 @@
 ErrorDocument 404 /404.html
 
+Redirect 301 /pso https://pso.lei202.com
+
 RewriteEngine On
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]

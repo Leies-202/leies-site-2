@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<link href="!cmnurl!/css/style.css" rel="stylesheet" type="text/css" />
+<link href="!cmnurl!/css/datepicker.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script type="text/javascript" src="!cmnurl!/js/bootstrap-datepicker.js"></script>
+<script type="text/javascript" src="!cmnurl!/js/bootstrap-datepicker.ja.min.js"></script>
+<title>!title!</title>
+</head>
+<body>
+
+<div id="head">
+	<div id="head-in">
+	<h1>:: !title! ::</h1>
+	</div>
+</div>
+<div id="main">
+<div id="main-in">
+
+<div class="ta-r">
+	<a class="button" href="!homepage!">Home</a>
+</div>
+
+<div class="ta-c">
+
+<form action="!index_cgi!">
+<table id="calen">
+<tr>
+	<th colspan="4">
+		<div class="head ta-l">
+			!icon:calendar.png!
+		</div>
+
+		<div class="head ta-c">
+			!btn-back!
+			!btn-this!
+			!btn-next!
+			<div class="date">
+				!year!年 !mon!月
+			</div>
+		</div>
+
+		<div class="head ta-r">
+			<input type="text" name="date" id="datepicker" />
+			<input type="submit" value="Go" class="small button" />
+		</div>
+
+		<div class="clear"></div>
+	</th>
+</tr>
+<tr>
+	<td class="w-s">日</td>
+	<td class="w-s">曜日</td>
+	<td class="w-m">時間</td>
+	<td class="w-l">内容</td>
+</tr>
+
+<!-- loop -->
+<tr>
+	<td style="!css-week!" class="ta-c">!day!</td>
+	<td style="!css-week!" class="ta-c">!week!</td>
+	<td style="!css-back!">!time!</td>
+	<td style="!css-back!">!action!</td>
+</tr>
+<!-- loop -->
+
+</table>
+</form>
+
+</div>
+
+<script type="text/javascript">
+$(function() {
+	$('#datepicker').datepicker({
+	format: 'yyyy/mm',
+    language: 'ja',
+    autoclose: true,
+    minViewMode: 'months',
+	});
+});
+</script>
+
+</div>
+</div>
+</body>
+</html>

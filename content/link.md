@@ -16,5 +16,5 @@ images:
 ___
 
 ## List
-[駄文同盟.com](http://www.dabun-doumei.com/)
-[![045.gif](/image/045.gif)](http://www.dabun-doumei.com/)
+[駄文同盟.com](http://www.dabun-doumei.com/rank.cgi?mode=r_link&id=19354)
+[![045.gif](/image/045.gif)](http://www.dabun-doumei.com/rank.cgi?mode=r_link&id=19354)

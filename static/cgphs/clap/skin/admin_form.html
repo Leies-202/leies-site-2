@@ -1,0 +1,51 @@
+<!--SKIN_FORM_START-->
+	<div id="form">
+		<!--FORM_NEW_START--><h2>お礼画面登録</h2><!--FORM_NEW_END-->
+		<!--FORM_EDIT_START--><h2>お礼画面編集</h2><!--FORM_EDIT_END-->
+		<ul>
+			<li>拍手送信時に表示される、お礼画面の内容を設定します。</li>
+			<li>テキストを入力して<em>登録ボタン</em>を押してください。</li>
+		</ul>
+		<form action="${INFO_SCRIPT}" method="post" enctype="multipart/form-data">
+			<fieldset>
+				<legend>登録フォーム</legend>
+				<input type="hidden" name="mode" value="${FORM_MODE}" />
+				<input type="hidden" name="edit" value="${FORM_EDIT}" />
+				<dl>
+					<!--FORM_ID_START-->
+					<dt>ID</dt>
+						<dd><input type="text" name="id" size="20" value="${FORM_ID}" /></dd>
+					<!--FORM_ID_END-->
+					<!--FORM_EXPLAIN_START-->
+					<dt>説明</dt>
+						<dd><input type="text" name="explain" size="50" value="${FORM_EXPLAIN}" /></dd>
+					<!--FORM_EXPLAIN_END-->
+					<dt>テキスト</dt>
+						<dd><textarea name="text" cols="50" rows="15">${FORM_TEXT}</textarea></dd>
+					<!--FORM_FILE_START-->
+					<dt>ファイル</dt>
+						<dd><input type="file" name="file" size="30" />${FORM_FILE}</dd>
+					<!--FORM_FILE_END-->
+					<!--FORM_TARGET_START-->
+					<dt>表示対象</dt>
+						<dd>${FORM_TARGET}</dd>
+					<!--FORM_TARGET_END-->
+					<!--FORM_PCSKIN_START-->
+					<dt>PCモード</dt>
+						<dd>${FORM_PCSKIN}</dd>
+					<!--FORM_PCSKIN_END-->
+					<!--FORM_MOBILESKIN_START-->
+					<dt>携帯モード</dt>
+						<dd>${FORM_MOBILESKIN}</dd>
+					<!--FORM_MOBILESKIN_END-->
+				</dl>
+				<!--FORM_STAT_START-->
+				<ul>
+					<li><input type="checkbox" name="stat" id="stat_checkbox" value="1"${FORM_STAT} /> <label for="stat_checkbox">このお礼画面を使用する</label></li>
+				</ul>
+				<!--FORM_STAT_END-->
+				<p><input type="submit" name="exec_regist" value="登録する" /></p>
+			</fieldset>
+		</form>
+	</div>
+<!--SKIN_FORM_END-->

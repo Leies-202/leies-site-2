@@ -4,6 +4,12 @@ date: 2019-05-05T16:15:50+09:00
 images: 
   - avater2.png
 ---
+下記リストは一部です。Keybase(KBFS)に公開可能な全アカウントを載せております。
+
+ページは[こちら](https://leies_202.keybase.pub/)
+
+___
+
 [misskey.io](https://misskey.io/@eizi2002/)
 
 [misskey-orz](https://eizi2002.orz.hm/@eizi2002/)

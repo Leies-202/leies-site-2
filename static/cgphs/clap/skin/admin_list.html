@@ -1,0 +1,68 @@
+<!--SKIN_LIST_HEAD_START-->
+	<h2>拍手一覧</h2>
+	<ul>
+		<li>拍手が送られた回数は<em>${LIST_CLAP}</em>回です。</li>
+		<!--LIST_COUNT_START--><li>これまでの総拍手数は<em>${LIST_COUNT_SUM}</em>回です。</li><!--LIST_COUNT_END-->
+		<li>受信内容は以下のとおりです。</li>
+	</ul>
+	<!--LIST_PAGE_START-->
+	<form action="${INFO_SCRIPT}" method="get">
+		<fieldset>
+			<legend>表示ページ絞り込みフォーム</legend>
+			<input type="hidden" name="mode" value="" />
+			<input type="hidden" name="date" value="${LIST_DATE}" />
+			<dl>
+				<dt>表示ページ</dt>
+					<dd>
+						<select name="page" xml:lang="ja" lang="ja">
+							<option value="">すべて</option>
+							${LIST_PAGE}
+						</select>
+					</dd>
+			</dl>
+			<p><input type="submit" value="絞り込み" /></p>
+		</fieldset>
+	</form>
+	<!--LIST_PAGE_END-->
+	<table summary="拍手一覧" class="list">
+		<tr>
+			<th>日時</th>
+			<th>拍手回数</th>
+			<th>メッセージ</th>
+		</tr>
+<!--SKIN_LIST_HEAD_END-->
+
+	<!--SKIN_LIST_START-->
+		<tr>
+			<td>${RESULT_HOUR}時</td>
+			<td><img src="./skin/graph.gif" alt="グラフ" width="${RESULT_GRAPH}" height="10" /> ${RESULT_COUNT}回</td>
+			<td>${RESULT_MESSAGE}</td>
+		</tr>
+	<!--SKIN_LIST_END-->
+
+<!--SKIN_LIST_FOOT_START-->
+	</table>
+<!--SKIN_LIST_FOOT_END-->
+
+<!--SKIN_COUNT_HEAD_START-->
+	<h2>送信回数一覧</h2>
+	<ul>
+		<li>一度に送信された拍手の回数は以下のとおりです。</li>
+	</ul>
+	<table summary="送信回数一覧" class="count">
+		<tr>
+			<th>送信回数</th>
+			<th>人数</th>
+		</tr>
+<!--SKIN_COUNT_HEAD_END-->
+
+	<!--SKIN_COUNT_START-->
+		<tr>
+			<td>${RESULT_CLAP}回</td>
+			<td><img src="./skin/graph.gif" alt="グラフ" width="${RESULT_GRAPH}" height="10" /> ${RESULT_COUNT}人</td>
+		</tr>
+	<!--SKIN_COUNT_END-->
+
+<!--SKIN_COUNT_FOOT_START-->
+	</table>
+<!--SKIN_COUNT_FOOT_END-->

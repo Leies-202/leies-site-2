@@ -142,23 +142,23 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
     url = "https://Leies-202.github.io/en/"
     weight = 50
 
-  [Languages.cn]
+  [Languages.zh-hans]
     weight = 3
 	homeSubtitle = "一个人滚来滚去"
 	title = "零江洲"
 	description = "零江洲网站"
 
-  [[Languages.cn.menu.main]]
+  [[Languages.zh-hans.menu.main]]
     name = "关于+轮廓"
     url = "about/"
     weight = 10
 
-  [[Languages.cn.menu.main]]
+  [[Languages.zh-hans.menu.main]]
     name = "链接(微博等......)"
     url = "link/"
     weight = 20
 
-  [[Languages.cn.menu.main]]
+  [[Languages.zh-hans.menu.main]]
     name = "GitHubPages"
-    url = "https://Leies-202.github.io/cn/"
+    url = "https://Leies-202.github.io/zh-hans/"
     weight = 50

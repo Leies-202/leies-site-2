@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-style-type" content="text/css" />
+<link href="!cmnurl!/css/style.css" rel="stylesheet" type="text/css" />
+<title>追加・編集フォーム</title>
+</head>
+<body>
+
+<div id="head">
+	<div id="head-in">
+	:: <b>追加・編集フォーム</b> :: [ !date! ]
+	</div>
+</div>
+<div id="main">
+<div id="main-in">
+
+<div class="backbtn">
+	<form action="!index_cgi!">
+	<input type="hidden" name="y" value="!y!" />
+	<input type="hidden" name="m" value="!m!" />
+	<button type="submit" class="button color green">Back</button>
+	</form>
+</div>
+
+<form action="!index_cgi!" method="post" enctype="multipart/form-data">
+<div class="form-ttl-new">!icon:date_add.png! 新規追加</div>
+<input type="hidden" name="mode" value="put_log" />
+<input type="hidden" name="y" value="!y!" />
+<input type="hidden" name="m" value="!m!" />
+<input type="hidden" name="d" value="!d!" />
+<input type="hidden" name="num" value="new" />
+<div class="reg-box">
+<table class="form">
+<tr>
+	<th>対象日</th>
+	<td>!date!</td>
+</tr><tr>
+	<th>時間帯</th>
+	<td>
+		<select name="from_h">
+		<option value="">▼選択</option>
+		<!-- op_from_h -->
+		</select> 時
+		<select name="from_m">
+		<option value="">▼選択</option>
+		<!-- op_from_m -->
+		</select> 分 ～
+		<select name="to_h">
+		<option value="">▼選択</option>
+		<!-- op_to_h -->
+		</select> 時
+		<select name="to_m">
+		<option value="">▼選択</option>
+		<!-- op_to_m -->
+		</select> 分<br />
+		<span>※開始の時間帯のみ必須。</span>
+	</td>
+</tr><tr>
+	<th>内容</th>
+	<td><input type="text" name="action" value="" size="50" /></td>
+</tr><tr>
+	<th>添付</th>
+	<td>
+		（WORD/EXCEL/POWER_POINT/PDF/ZIP）<br />
+		<input type="file" name="upfile" size="40" />
+	</td>
+</tr><tr>
+	<th>パスワード</th>
+	<td>
+		<input type="password" name="pwd" size="6" />
+		&nbsp;
+		<input type="submit" name="job_edit" value="新規追加" />
+	</td>
+</tr>
+</table>
+</div>
+</form>
+
+<!-- loop -->
+<form action="!index_cgi!" method="post" enctype="multipart/form-data">
+<div class="form-ttl-edit">!icon:date_edit.png! 編集!form-num!</div>
+<input type="hidden" name="mode" value="put_log" />
+<input type="hidden" name="y" value="!y!" />
+<input type="hidden" name="m" value="!m!" />
+<input type="hidden" name="d" value="!d!" />
+<input type="hidden" name="num" value="!num!" />
+<div class="reg-box">
+<table class="form">
+<tr>
+	<th>時間帯</th>
+	<td>
+		<select name="from_h">
+		<option value="">▼選択</option>
+		<!-- op_from_h -->
+		</select> 時
+		<select name="from_m">
+		<option value="">▼選択</option>
+		<!-- op_from_m -->
+		</select> 分 ～
+		<select name="to_h">
+		<option value="">▼選択</option>
+		<!-- op_to_h -->
+		</select> 時
+		<select name="to_m">
+		<option value="">▼選択</option>
+		<!-- op_to_m -->
+		</select> 分<br />
+		<span>※開始の時間帯のみ必須です。</span>
+	</td>
+</tr><tr>
+	<th>内容</th>
+	<td><input type="text" name="action" value="!action!" size="50" /></td>
+</tr><tr>
+	<th>添付</th>
+	<td>
+		（WORD/EXCEL/POWER_POINT/PDF/ZIP）<br />
+		<input type="file" name="upfile" size="40" />
+		<!-- upfile -->
+	</td>
+</tr><tr>
+	<th>パスワード</th>
+	<td>
+		<input type="password" name="pwd" size="6" />
+		&nbsp;
+		<input type="submit" name="job_edit" value="更新する" />
+		&nbsp;
+		<input type="submit" name="job_dele" value="削除する" />
+	</td>
+</tr>
+</table>
+</div>
+</form>
+<!-- loop -->
+
+</div>
+</div>
+</body>
+</html>

@@ -6,7 +6,7 @@ images:
 ---
 下記リストは一部です。Keybase(KBFS)に公開可能な全アカウントを載せております。
 
-ページは[こちら](https://leies_202.keybase.pub/)
+(公開可能な)全アカウントリストは[こちら](https://leies_202.keybase.pub/)
 
 ___
 

@@ -23,3 +23,5 @@ ___
 [Twitter](https://twitter.com/Leies_202)
 
 他､ニコニコ等は[創作](https://lei202.com/contents/)ページ、GitHub等はTOPのアイコンに。
+
+<a href="http://github.com/leies-202" class="gh-contributions" data-gh-username="leies-202" target="_blank">leies-202's contributions</a><script src="https://ikuwow.github.io/yourcontributions/widget.min.js"></script>

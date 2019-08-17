@@ -7,6 +7,9 @@ images:
 aliases:
     - /eizi2002/
 ---
+## GitHub(創作とは)
+<a href="http://github.com/leies-202" class="gh-contributions" data-gh-username="leies-202" target="_blank">leies-202's contributions</a><script src="https://ikuwow.github.io/yourcontributions/widget.min.js"></script>
+
 ## 音楽(適当)
 [piapro](https://piapro.jp/eizi2002)
 

@@ -39,7 +39,7 @@ lastmod = ["lastmod", ":fileModTime", ":default"]
   images = ["avater2.png"]
   themeColor = "#494f5c"
 
-  homeSubtitle = "そこら辺の人間。"
+  homeSubtitle = "そこら辺に転がってる人間のサイト。"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   bgImg = "avater2.png"  # Homepage background-image URL
 
@@ -59,24 +59,40 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
     url = "https://twitter.com/Leies_202/"
 
   [[params.social]]
+    name = "misskey"
+    url = "https://misskey.io/@eizi2002/"
+
+  [[params.social]]
+    name = "game"
+    url = "https://pso.lei202.com/"
+
+  [[params.social]]
     name = "github"
     url = "https://github.com/Leies-202/"
 
   [[params.social]]
-    name = "slack"
-    url = "https://leies202.slack.com/"
+    name = "soundcloud"
+    url = "https://soundcloud.com/leies202/"
+
+  [[params.social]]
+    name = "niconico"
+    url = "https://www.nicovideo.jp/user/49834887"
 
   [[params.social]]
     name = "youtube"
     url = "https://www.youtube.com/channel/UC_UPoBTzd57PVP5ssOh743g"
 
   [[params.social]]
-    name = "telegram"
-    url = "https://t.me/leies_202/"
-	
-  [[params.social]]
     name = "keybase"
     url = "https://keybase.io/leies_202/"
+
+  [[params.social]]
+    name = "slack"
+    url = "https://leies202.slack.com/"
+
+  [[params.social]]
+    name = "telegram"
+    url = "https://t.me/leies_202/"
 
   [[params.social]]
     name = "email"
@@ -119,6 +135,7 @@ gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
     weight = 1
   description = "レイエスのホームページ"
     title = "lei202.com"
+  homeSubtitle = "Leiesことレイエスが適当に作ってるサイト。"
 
 
   dateform        = "2006-01-02"

@@ -1,6 +1,0 @@
-<Files ~ "^\.ht">
-deny from all
-</Files>
-
-# Redirect
-RedirectMatch 301 /blog/(.*) https://eizi2002.sakura.ne.jp/

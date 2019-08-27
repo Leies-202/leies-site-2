@@ -10,7 +10,7 @@ images:
 
 ___
 
-[misskey.io](https://misskey.io/@eizi2002/)
+[misskey.io](https://misskey.io/@lei202/)
 
 [misskey-orz](https://eizi2002.orz.hm/@eizi2002/)
 

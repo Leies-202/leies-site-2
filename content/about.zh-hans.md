@@ -4,10 +4,6 @@ images:
   - avater-sub.png
 description: 零江洲关于
 ---
-### 通知
-comiket的friends.nico的小圈子朋友（服务已经完成）出现在Comiket 96上。
-
-因为它一次作为一个词参加了。
 
 ## 是谁?
 

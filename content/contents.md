@@ -30,11 +30,12 @@ aliases:
 <div class="g-ytsubscribe" data-channelid="UC_UPoBTzd57PVP5ssOh743g" data-layout="full" data-theme="dark" data-count="hidden"></div>
 
 ## 小説
-[カクヨム](https://kakuyomu.jp/users/eizi2002/)
+[カクヨム](https://kakuyomu.jp/users/eizi2002)
+[なろう](https://mypage.syosetu.com/1139217/)
 ## その他
 ･[ウナ公式アカウントさんの顔文字のまとめ辞書(Una-IME)](https://lei202.com/una-ime.html)
 
-･このサイト
+･このサイト(Hugo)
 
 ･[藍Bot](https://github.com/syuilo/ai/)改造された[いあBot](https://github.com/mei23/ai/)をさらに[セリフ変更したやつ](https://github.com/leies-202/ai/)
 

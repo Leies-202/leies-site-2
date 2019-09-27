@@ -37,19 +37,7 @@ ExpiresByType application/x-shockwave-flash "access plus 1 year"
 </ifModule>
 # END Browser Cache
 
-ExpiresByType text/html "access plus 1 seconds"
 
-ExpiresByType image/gif "access plus 1 weeks"
-ExpiresByType image/jpeg "access plus 1 weeks"
-ExpiresByType image/png "access plus 1 weeks"
-ExpiresByType image/x-icon "access plus 1 weeks"
-
-ExpiresByType text/css "access plus 1 year"
-
-ExpiresByType text/javascript "access plus 1 year"
-ExpiresByType application/x-javascript "access plus 1 year"
-
-ExpiresByType application/x-shockwave-flash "access plus 1 year"
 
 SetOutputFilter DEFLATE
 BrowserMatch ^Mozilla/4 gzip-only-text/html
@@ -57,4 +45,20 @@ BrowserMatch ^Mozilla/4\.0[678] no-gzip
 BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
 SetEnvIfNoCase Request_URI \.(?:gif|jpe?g|png|ico)$ no-gzip dont-vary
 Header append Vary User-Agent env=!dont-vary
+
+<IfModule mod_mime.c>
+	AddType font/opentype         .otf
+	AddType font/eot              .eot
+	AddType font/truetype         .ttf
+	AddType application/font-woff .woff
+</IfModule>
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE font/opentype font/eot font/truetype application/font-woff
+</IfModule>
+
+<FilesMatch "\.(?i:(otf|ttf|eot|woff)(\.gz)?)$">
+    ExpiresDefault A25920000
+</FilesMatch>
+
+
 

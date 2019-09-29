@@ -11,7 +11,7 @@ rssLimit = 10  # Maximum number of items in the RSS feed.
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License." # This message is only used by the RSS template.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 googleAnalytics = "UA-87433732-12"
-disqusShortname = "eizi2002-home"
+disqusShortname = "lei202-com"
 
 [author]
   name = "Leies"
@@ -44,7 +44,7 @@ lastmod = ["lastmod", ":fileModTime", ":default"]
   bgImg = "avater2.png"  # Homepage background-image URL
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
-gitUrl = "https://github.com/eizi2002/eizi2002.github.io/"
+gitUrl = "https://github.com/lei202/leies-site-2/"
 
   # Toggling this option needs to rebuild SCSS, requires Hugo extended version
   justifyContent = false  # Set "text-align: justify" to `.content`.

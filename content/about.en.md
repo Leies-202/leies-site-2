@@ -6,7 +6,7 @@ images:
 
 ## Who?
 
-eizi2002 is my different handle name
+lei202 is my different handle name
 
 I am not good at speaking anything except Japanese
 
@@ -14,7 +14,7 @@ This site also made full use of translation.
 
 I am sorry if I can not read it.
 
-ID:eizi2002,Leies,etc...
+ID:Leies,lei202,Leies_202,etc...
 
 ## Leies-Profile(from friends.nico (the end of the service))
 

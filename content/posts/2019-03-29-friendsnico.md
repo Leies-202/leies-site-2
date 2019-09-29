@@ -39,7 +39,7 @@ aliases:
 
 まず浮上多めの予定である本命の引越し先です。
 
-1.[misskey.io](https://misskey.io/@eizi2002)
+1.[misskey.io](https://misskey.io/@lei202)
 
 2.[friends.cafe](https://friends.cafe/@lei202/)
 

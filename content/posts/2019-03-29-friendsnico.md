@@ -41,16 +41,16 @@ aliases:
 
 1.[misskey.io](https://misskey.io/@lei202)
 
-2.[friends.cafe](https://friends.cafe/@lei202/)
+2.[めいすきー](https://misskey.m544.net/@eizi2002/)
 
-3.[Misskey-orz(自分で建てたインスタンス)](https://eizi2002.orz.hm/@eizi2002) 
-
-希に[めいすきー](https://misskey.m544.net/@eizi2002/),[ベスフレ](https://best-friends.chat/@eizi2002)
+稀に[ベスフレ](https://best-friends.chat/@eizi2002)
 
 以上です。  
 
+自宅鯖はって？消えたよ(2019/10/14追記)(代用として[Misskey-lei](https://misskey.lei202.com))
+
 次に、青い鳥です。  
-[@Leies_202](https://twitter.com/Leies_202)(夏コミ後メイン垢にします)
+[@Leies_202](https://twitter.com/Leies_202)
 
 他、少なくとも所属はしているインスタンス。
 

